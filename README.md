@@ -1,4 +1,4 @@
-#Kütüphane Yönetim Sistemi
+#Kütüphane Yönetim Sistemi#
 Bu proje, Kütüphane Yönetim Sistemi geliştirmek için Java programlama dili kullanılarak oluşturulmuştur. 
 Proje, tasarım desenlerini kullanarak modüler ve genişletilebilir bir yapı sunar. Amaç, kütüphane işlemlerini kolaylaştırmak ve kullanıcılar için daha işlevsel bir sistem sağlamaktır.
 
