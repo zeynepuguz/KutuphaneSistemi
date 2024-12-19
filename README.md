@@ -31,3 +31,7 @@ Bu proje, Kütüphane Yönetim Sistemi geliştirmek için Java programlama dili 
 - Kullanıcı dostu bir grafik arayüz sunulmuştur.
 - **Swing** kütüphanesi kullanılarak geliştirilmiştir.
 - Giriş ekranı, kayıt ekranı ve kitap yönetimi ekranları gibi farklı modüller içerir.
+
+
+## Proje Arkadaşım: YÜKSEL UYGUN , GitHub Linki: 
+
