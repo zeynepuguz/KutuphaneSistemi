@@ -33,5 +33,5 @@ Bu proje, Kütüphane Yönetim Sistemi geliştirmek için Java programlama dili 
 - Giriş ekranı, kayıt ekranı ve kitap yönetimi ekranları gibi farklı modüller içerir.
 
 
-### Proje Arkadaşım: YÜKSEL UYGUN , GitHub Linki: [https://github.com/YukselUygun](https://github.com/YukselUygun/KutuphaneSistemii)
+### Proje Arkadaşım: YÜKSEL UYGUN , GitHub Linki: [https://github.com/YukselUygun](https://github.com/YukselUygun/KutuphaneSistemii)  ; ZEYNEP UĞUZ , GitHub Linki: https://github.com/zeynepuguz/KutuphaneSistemi
 
